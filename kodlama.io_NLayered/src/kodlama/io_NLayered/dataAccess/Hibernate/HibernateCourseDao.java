@@ -9,7 +9,6 @@ public class HibernateCourseDao implements CourseDao{
 	Entity courseEntity = new Course();
 	
 
-
 	@Override
 	public void Add(Entity entity) {
 		// TODO Auto-generated method stub
